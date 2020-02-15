@@ -37,19 +37,18 @@ function start() {
                 'Add Employee',
                 'Remove Employee',
 
-                'Update employee role',
                 'Update employee Manager',
-                //Done
+               
                 'View all roles',
-                //Done
+                
                 'Add role',
-                //Done
+               
                 'Remove role',
-                //Done
+                
                 'View departments',
-                //Done
+               
                 'Add departments',
-                //Done
+                
                 'Remove departments'
             ],           
         }
